@@ -8,7 +8,7 @@ A simple SQL Server-powered web app for user authentication, task creation, prio
 - Tasks can be organized into categories or lists (e.g., Work, Personal, Shopping).
 
 # Tech Stack:
-- Microsoft sql server
-- ...
-- ...
-- ...
+- Microsoft SQL Server
+- React.js
+- Express.js
+- Node.js
